@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>om-wani</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="shortcut icon"
+      href="../resources/Codexfavicon.png"
+      type="image/x-icon"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sometype+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Linefont:wght@200;300;400;500;600;700;800;900;1000&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Linefont:wght@200;300;400;500;600;700;800;900;1000&family=Redacted+Script:wght@300;400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../css/style.css" />
+  </head>
+  <body>
+    <div id="snackbar">Copied to Clipboard!</div>
+
+    <!-- Links (sit on top) -->
+    <div class="w3-top">
+      <div class="w3-row w3-padding w3-black">
+        <div class="w3-col s3">
+          <a href="#" class="w3-button w3-block w3-black">HOME</a>
+        </div>
+        <div class="w3-col s3">
+          <a href="#about" class="w3-button w3-block w3-black">ABOUT</a>
+        </div>
+        <div class="w3-col s3">
+          <a href="../public/posts.html" class="w3-button w3-block w3-black"
+            >POSTS</a
+          >
+        </div>
+        <div class="w3-col s3">
+          <a href="#contact" class="w3-button w3-block w3-black">CONTACT</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Header with image -->
+    <header class="bgimg w3-display-container w3-grayscale-min" id="home">
+      <div
+        class="w3-display-bottomleft w3-center w3-padding-large w3-hide-small"
+      >
+        <a href="./resume.html"
+          ><span class="w3-tag-header-big">My Resume</span></a
+        >
+      </div>
+      <div class="w3-display-middle w3-center">
+        <span
+          class="w3-text-ultrapurple w3-left"
+          style="font-size: 40px; text-align: left"
+          >Want to talk to me?<br />Here's my mail and gpg-key</span
+        >
+        <a href="mailto:omwani03@gmail.com"
+          ><span class="w3-text-yellowgreen w3-left" style="font-size: 90px"
+            >omwani03@gmail.com</span
+          ></a
+        >
+        <div
+          class="w3-text-yellowgreen w3-left gpgkey tooltip"
+          style="font-size: 20px; cursor: pointer"
+          id="gpgkey"
+          onclick="copyToClipboard()"
+        >
+          30C7 C5D2 3A54 0CD5 741A 8240 FADC 45FF 0138 4E5F<span
+            class="tooltiptext"
+            style="font-size: small"
+            >GnuPG Key Fingerprint</span
+          >
+        </div>
+      </div>
+      <div
+        class="w3-display-bottomright w3-center w3-padding-large w3-hide-small"
+      >
+        <a href="./blog.html"><span class="w3-tag-header-big">Blog</span></a>
+        <a href="./gallery.html"
+          ><span class="w3-tag-header-big">Gallery</span></a
+        >
+      </div>
+      <a href="#about"><div class="pos down-arrow"></div></a>
+    </header>
+
+    <!-- Add a background color and large text to the whole page -->
+    <div class="w3-moonstone w3-grayscale w3-large">
+      <!-- About Container -->
+      <div class="w3-container" id="about">
+        <div class="w3-content" style="max-width: 700px">
+          <h5 class="w3-center w3-padding-64">
+            <span class="w3-tag w3-wide">WHO IS 'OM'?</span>
+          </h5>
+          <p>
+            He is someone who loves Tech, Games, Good-Storytelling and Cycling.
+          </p>
+          <p>
+            Om has had interest in computer since childhood, so he is pursuing
+            Computer Science in College. <br />
+            Extending the passion for computers, he supports Free and Open
+            Source Software. He gives talks and promotes open source software in
+            schools and colleges and events.
+          </p>
+          <p style="border-bottom: 1.5px black solid"></p>
+        </div>
+      </div>
+
+      <!-- Recent Posts Container -->
+      <div class="w3-container" id="recent-posts">
+        <div class="w3-content" style="max-width: 700px">
+          <h5 class="w3-center w3-padding-48">
+            <span class="w3-tag w3-wide">- RECENT POSTS -</span>
+          </h5>
+
+          <div
+            class="w3-row w3-center w3-card w3-padding"
+            style="
+              border-top: 1px black solid;
+              border-bottom: 0.5px black solid;
+              border-right: 1px black solid;
+              border-left: 1px black solid;
+            "
+          >
+            <a
+              href="javascript:void(0)"
+              onclick="openMenu(event, 'Blog');"
+              id="myLink"
+            >
+              <div
+                class="w3-col s6 tablink"
+                style="
+                  border-top: 1px black solid;
+                  border-bottom: 1px black solid;
+                  border-left: 1px black solid;
+                  border-right: 0.5px black solid;
+                "
+              >
+                Blog
+              </div>
+            </a>
+            <a href="javascript:void(0)" onclick="openMenu(event, 'Project');">
+              <div
+                class="w3-col s6 tablink"
+                style="
+                  border-top: 1px black solid;
+                  border-bottom: 1px black solid;
+                  border-right: 1px black solid;
+                  border-left: 0.5px black solid;
+                "
+              >
+                Project
+              </div>
+            </a>
+          </div>
+
+          <div
+            id="Blog"
+            class="w3-container menu w3-padding-48 w3-card"
+            style="
+              border-top: 0.5px black solid;
+              border-bottom: 1px black solid;
+              border-right: 1px black solid;
+              border-left: 1px black solid;
+            "
+          >
+            <h5>Blog #1</h5>
+            <p class="w3-text-grey">
+              Assortment of fresh baked fruit breads and muffins 5.50
+            </p>
+            <br />
+
+            <h5>Blog #2</h5>
+            <p class="w3-text-grey">
+              Natural cereal of honey toasted oats, raisins, almonds and dates
+              7.00
+            </p>
+            <br />
+
+            <h5>Blog #3</h5>
+            <p class="w3-text-grey">
+              Vanilla flavored batter with malted flour 7.50
+            </p>
+            <br />
+
+            <h5>Blog #4</h5>
+            <p class="w3-text-grey">
+              Vanilla flavored batter with malted flour 7.50
+            </p>
+            <br />
+
+            <h5>Blog #5</h5>
+            <p class="w3-text-grey">
+              Vanilla flavored batter with malted flour 7.50
+            </p>
+          </div>
+
+          <div
+            id="Project"
+            class="w3-container menu w3-padding-48 w3-card"
+            style="
+              border-top: 0.5px black solid;
+              border-bottom: 1px black solid;
+              border-right: 1px black solid;
+              border-left: 1px black solid;
+            "
+          >
+            <h5>Project #1</h5>
+            <p class="w3-text-grey">Regular coffee 2.50</p>
+            <br />
+
+            <h5>Project #2</h5>
+            <p class="w3-text-grey">Chocolate espresso with milk 4.50</p>
+            <br />
+
+            <h5>Project #3</h5>
+            <p class="w3-text-grey">Whiskey and coffee 5.00</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Contact Container -->
+      <div class="w3-container" id="contact" style="padding-bottom: 32px">
+        <div class="w3-content w3-center" style="max-width: 700px">
+          <h5 class="w3-center w3-padding-48">
+            <span class="w3-tag w3-wide">- CONTACT -</span>
+          </h5>
+          <p>
+            <a href="mailto:omwani03@gmail.com"
+              ><span class="w3-tag-contact-big">omwani03@gmail.com</span></a
+            >
+            <a href="mailto:omwani@proton.me"
+              ><span class="w3-tag-contact-big">omwani@proton.me</span></a
+            >
+          </p>
+          <p>
+            <a href="https://github.com/om-wani/"
+              ><span class="w3-tag-contact-big">github-profile</span></a
+            >
+            <a href="gitlab.com/om-wani"
+              ><span class="w3-tag-contact-big">gitlab-profile</span></a
+            >
+          </p>
+          <p>
+            <a href="https://app.element.io"
+              ><span class="w3-tag-contact-big">@omwani03 (matrix.org)</span></a
+            >
+            <a href="https://web.telegram.org"
+              ><span class="w3-tag-contact-big">@omwani03 (telegram)</span></a
+            >
+          </p>
+          <p>
+            <a href="https://linkedin.com/in/omwani/"
+              ><span class="w3-tag-contact-big">linkedin-profile</span></a
+            >
+          </p>
+        </div>
+      </div>
+
+      <!-- End page content -->
+      <br /><br />
+    </div>
+    <hr
+      style="
+        border: 2px var(--moonstone) solid;
+        background-color: var(--yellow-green);
+        padding: 6px;
+      "
+    />
+    <br /><br /><br /><br />
+
+    <!-- Footer -->
+    <footer
+      class="w3-center w3-large"
+      style="
+        padding: 25px;
+        background-color: var(--dark-purple);
+        color: var(--ultra-violet);
+      "
+    >
+      <p>
+        Powered by
+        <a
+          href="https://www.w3schools.com/w3css/default.asp"
+          title="W3.CSS"
+          target="_blank"
+          class="w3-hover-text-green"
+          >w3.css</a
+        >
+      </p>
+      <p>All Copywrongs not reserved with owner.</p>
+    </footer>
+
+    <script src="../js/script.js"></script>
+  </body>
+</html>
