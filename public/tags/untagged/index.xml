@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on Om Wani | 0x03</title>
+    <link>https://0x03.in/tags/untagged/</link>
+    <description>Recent content in Untagged on Om Wani | 0x03</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 09 Dec 2024 12:42:18 +0530</lastBuildDate>
+    <atom:link href="https://0x03.in/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hellotest</title>
+      <link>https://0x03.in/posts/2024/12/hellotest/</link>
+      <pubDate>Mon, 09 Dec 2024 12:42:18 +0530</pubDate>
+      <guid>https://0x03.in/posts/2024/12/hellotest/</guid>
+      <description>&lt;p&gt;hello&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Testpost</title>
+      <link>https://0x03.in/posts/2024/12/testpost/</link>
+      <pubDate>Sun, 08 Dec 2024 22:57:46 +0530</pubDate>
+      <guid>https://0x03.in/posts/2024/12/testpost/</guid>
+      <description>&lt;h1 id=&#34;hello-this-is-test-post&#34;&gt;Hello this is test post&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;first point.!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Alt texwert&#34; src=&#34;https://imgur.com/ajEEL5k.jpeg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
