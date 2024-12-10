@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Om Wani | 0x03</title>
-    <link>https://0x03.in/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Om Wani | 0x03</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 09 Dec 2024 12:42:18 +0530</lastBuildDate>
-    <atom:link href="https://0x03.in/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hellotest</title>
-      <link>https://0x03.in/posts/2024/12/hellotest/</link>
+      <link>http://localhost:1313/posts/2024/12/hellotest/</link>
       <pubDate>Mon, 09 Dec 2024 12:42:18 +0530</pubDate>
-      <guid>https://0x03.in/posts/2024/12/hellotest/</guid>
+      <guid>http://localhost:1313/posts/2024/12/hellotest/</guid>
       <description>&lt;p&gt;hello&lt;/p&gt;</description>
     </item>
     <item>
       <title>devlog1: Setting up SDL project for the first time</title>
-      <link>https://0x03.in/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</link>
+      <link>http://localhost:1313/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</link>
       <pubDate>Mon, 09 Dec 2024 01:28:24 +0530</pubDate>
-      <guid>https://0x03.in/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</guid>
+      <guid>http://localhost:1313/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</guid>
       <description>&lt;p&gt;This is the first time i am ever i am interacting with sdl (Simple DirectMedia Layer).&lt;br&gt;&#xA;I am using a Mac for this project and everything i do will work for any mac, and probably even some linux distros.&lt;br&gt;&#xA;0sdgr547618&#xA;The SDL library has bindings to many different programming languages. While SDL is written in C, it works well with C++ and many people like to use it with various scripting languages and special purpose programming languages. You can check that out the bindings &lt;a href=&#34;https://libsdl.org/languages.php&#34;&gt;here&lt;/a&gt;, but we are going to use C++ only.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Testpost</title>
-      <link>https://0x03.in/posts/2024/12/testpost/</link>
+      <link>http://localhost:1313/posts/2024/12/testpost/</link>
       <pubDate>Sun, 08 Dec 2024 22:57:46 +0530</pubDate>
-      <guid>https://0x03.in/posts/2024/12/testpost/</guid>
+      <guid>http://localhost:1313/posts/2024/12/testpost/</guid>
       <description>&lt;h1 id=&#34;hello-this-is-test-post&#34;&gt;Hello this is test post&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;first point.!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Alt texwert&#34; src=&#34;https://imgur.com/ajEEL5k.jpeg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://0x03.in/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://0x03.in/about/</guid>
-      <description>&lt;p&gt;I am Om Wani (0x03).&lt;br&gt;&#xA;I am a Computer Science Student based in Pune,IN.&lt;br&gt;&#xA;I am trying to build a game engine and you can  check out the project on my &lt;a href=&#34;https://github.com/om-wani/&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Also here is my resume -&amp;gt; &lt;a href=&#34;https://0x03.in/Resume_OM_WANI.pdf&#34;&gt;RESUME&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;and this is how to reach me or contact me &lt;br&gt;&#xA;email     -&amp;gt; &lt;a href=&#34;mailto:omwani03@gmail.com&#34;&gt;omwani03@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;linkedin  -&amp;gt; &lt;a href=&#34;https://linkedin/in/omwani&#34;&gt;@omwani&lt;/a&gt;&lt;br&gt;&#xA;github    -&amp;gt; &lt;a href=&#34;https://github.com/om-wani&#34;&gt;@om-wani&lt;/a&gt;&lt;br&gt;&#xA;twitter   -&amp;gt; &lt;a href=&#34;https://x.com/omwani03&#34;&gt;@omwani03&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am Om Wani (0x03).&lt;br&gt;&#xA;I am a Computer Science Student based in Pune,IN.&lt;br&gt;&#xA;I am trying to build a game engine and you can  check out the project on my &lt;a href=&#34;https://github.com/om-wani/&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Also here is my resume -&amp;gt; &lt;a href=&#34;http://localhost:1313/Resume_OM_WANI.pdf&#34;&gt;RESUME&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;and this is how to reach me or contact me &lt;br&gt;&#xA;email     -&amp;gt; &lt;a href=&#34;mailto:omwani03@gmail.com&#34;&gt;omwani03@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;linkedin  -&amp;gt; &lt;a href=&#34;https://linkedin/in/omwani&#34;&gt;@omwani&lt;/a&gt;&lt;br&gt;&#xA;github    -&amp;gt; &lt;a href=&#34;https://github.com/om-wani&#34;&gt;@om-wani&lt;/a&gt;&lt;br&gt;&#xA;twitter   -&amp;gt; &lt;a href=&#34;https://x.com/omwani03&#34;&gt;@omwani03&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

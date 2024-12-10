@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Om Wani | 0x03</title>
-    <link>https://0x03.in/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Om Wani | 0x03</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 09 Dec 2024 12:42:18 +0530</lastBuildDate>
-    <atom:link href="https://0x03.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Untagged</title>
-      <link>https://0x03.in/tags/untagged/</link>
+      <link>http://localhost:1313/tags/untagged/</link>
       <pubDate>Mon, 09 Dec 2024 12:42:18 +0530</pubDate>
-      <guid>https://0x03.in/tags/untagged/</guid>
+      <guid>http://localhost:1313/tags/untagged/</guid>
       <description></description>
     </item>
     <item>
       <title>Devlog</title>
-      <link>https://0x03.in/tags/devlog/</link>
+      <link>http://localhost:1313/tags/devlog/</link>
       <pubDate>Mon, 09 Dec 2024 01:28:24 +0530</pubDate>
-      <guid>https://0x03.in/tags/devlog/</guid>
+      <guid>http://localhost:1313/tags/devlog/</guid>
       <description></description>
     </item>
     <item>
       <title>Gameengine</title>
-      <link>https://0x03.in/tags/gameengine/</link>
+      <link>http://localhost:1313/tags/gameengine/</link>
       <pubDate>Mon, 09 Dec 2024 01:28:24 +0530</pubDate>
-      <guid>https://0x03.in/tags/gameengine/</guid>
+      <guid>http://localhost:1313/tags/gameengine/</guid>
       <description></description>
     </item>
     <item>
       <title>Sdl</title>
-      <link>https://0x03.in/tags/sdl/</link>
+      <link>http://localhost:1313/tags/sdl/</link>
       <pubDate>Mon, 09 Dec 2024 01:28:24 +0530</pubDate>
-      <guid>https://0x03.in/tags/sdl/</guid>
+      <guid>http://localhost:1313/tags/sdl/</guid>
       <description></description>
     </item>
   </channel>
