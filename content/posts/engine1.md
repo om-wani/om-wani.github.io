@@ -8,6 +8,8 @@ tags:
   - gameengine
   - devlog
   - sdl
+series: 
+  - test1
 ---
 
 This is the first time i am ever i am interacting with sdl (Simple DirectMedia Layer).  

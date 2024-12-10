@@ -7,7 +7,7 @@ images:
 tags:
   - untagged
 series: 
-  - hellotest
+  - test2
 categories:
   - verytest
 ---
