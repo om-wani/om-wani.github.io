@@ -6,6 +6,10 @@ toc: false
 images:
 tags:
   - untagged
+series: 
+  - hellotest
+categories:
+  - verytest
 ---
 
 hello
