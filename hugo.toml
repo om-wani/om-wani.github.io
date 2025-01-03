@@ -68,10 +68,10 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Student | Developer - ( btw i'm building a game engine.)"
+  homeSubtitle = "Student | Developer - ( and i'm building a compiler.)"
 
   # Set a background for the homepage
-  # backgroundImage = "assets/images/background.jpg"
+  # backgroundImage = "/img/cat-in-window.gif"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -160,10 +160,10 @@ disableHugoGeneratorInject = false
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Uncomment this if you want a portrait on your start page
   #
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+   [params.portrait]
+     path     = "/img/Ghost.jpg"
+     alt      = "Portrait"
+     maxWidth = "150px"
 
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
   # Addon: Commento
