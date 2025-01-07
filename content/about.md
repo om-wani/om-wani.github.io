@@ -10,7 +10,7 @@ I am Om Wani (0x03).
 I am a Computer Science Student based in Pune,IN.   
 I am trying to build a game engine and you can  check out the project on my [github](https://github.com/om-wani/).
 
-Also here is my resume -> [RESUME](/assets/Resume_OM_WANI.pdf)
+Also here is my resume -> [RESUME](https://github.com/om-wani/resume/blob/460d9369973b635d591c5b7e6643ed0ddcf5681b/Resume07Jan2025.pdf)
 
 and this is how to reach me or contact me    
 email     -> [omwani03@gmail.com](mailto:omwani03@gmail.com)   
