@@ -1,20 +1,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Om Wani</title>
-        <link>https://0x03.in/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>Recent content in Posts on Om Wani</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Tue, 10 Dec 2024 23:37:40 +0530</lastBuildDate>
-        <atom:link href="https://0x03.in/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Wed, 25 Dec 2024 00:45:38 +0530</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Have you been to Vasota?</title>
+            <link>http://localhost:1313/posts/2024/12/have-you-been-to-vasota/</link>
+            <pubDate>Wed, 25 Dec 2024 00:45:38 +0530</pubDate>
+            
+            <guid>http://localhost:1313/posts/2024/12/have-you-been-to-vasota/</guid>
+            <description>&lt;p&gt;&lt;strong&gt;if not, you should, specially during winters.&lt;/strong&gt;
+i recently went for the trek with my cousins this december.&lt;/p&gt;
+&lt;h3 id=&#34;day-0--planning&#34;&gt;day 0 : planning&lt;/h3&gt;
+&lt;p&gt;i was thinking of planning a trip somewhere to chill as i had not went out anywhere since a long and coincidently Shivam (my cousin) called and asked, &lt;strong&gt;&amp;ldquo;wanna plan and go somewhere?, Pratik &lt;em&gt;(my other cousin)&lt;/em&gt; is in town.&amp;rdquo;&lt;/strong&gt; so i immediately said yes. we discussed and decided to go Vasota with a trekking group.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p><strong>if not, you should, specially during winters.</strong>
+i recently went for the trek with my cousins this december.</p>
+<h3 id="day-0--planning">day 0 : planning</h3>
+<p>i was thinking of planning a trip somewhere to chill as i had not went out anywhere since a long and coincidently Shivam (my cousin) called and asked, <strong>&ldquo;wanna plan and go somewhere?, Pratik <em>(my other cousin)</em> is in town.&rdquo;</strong> so i immediately said yes. we discussed and decided to go Vasota with a trekking group.</p>
+<h3 id="day-1--preparation--pickup">day 1 : preparation &amp; pickup</h3>
+<p>after deciding for the location and way to reach, we created a whatsapp group to discuss all the things to pack and chat about the trip. <strong>i packed all the necessary stuff like cloths, water bottle, power bank, etc. and recommended stuff like camera, speakers, etc.</strong><br>
+rest of the day went as always but then at night was our pick by the trekking group. at approximately 8pm i left home for the pickup point and reached the pickup point where we three were the last people left to pick up, so we got into the bus fast.<br>
+as the bus was on the route to destination camping village, we all started to introduce ourselves. after the ice was melted <strong>we started to enjoy each others company</strong>, sound was on and everyone started dancing, then played dumb charades and antakshari, but then we reached the camp.<br>
+we were supposed to sleep to wake at 6am the next day, but <strong>no-one slept</strong>. more games were going to be played and more conversations happening.<br>
+seeing no one wanted to sleep the trek lead suggested &rsquo;let&rsquo;s play pass-the-parcel&rsquo;, everyone agreed. with every pass, every turn, every dare, everyone was learning a few things about each person present. btw the dare given to me was so unfair, i still want my revenge.</p>
+<p><img alt="image of trees in the fog" src="/img/background.jpg"></p>
+<p>after all tiring games everyone went to sleep at last at 4 am except us few.<br>
+we circled around the campfire and passed the remaining time till wake up call by discussing wide spectrum of thoughts from choice in food to stars and planets to one&rsquo;s existence to conspiracies.</p>
+<h3 id="day-2--the-trek">day 2 : the trek</h3>
+<p>it was fog everywhere. there was fog over what seemed to be a lake. there was fog through the trees.</p>
+<!-- raw HTML omitted -->
+<p>as everyone woke up, did all the essential deeds, and had breakfast, us few, that were awake whole night discussing theories, were getting a power nap for the energy for the trek.<br>
+after everyone was ready (including us), we started walking towards the docks where the boats were docked which were going to take us to the base of the trek. apparently the thing separating us at the camp site and the trek was a river taking us 2.5 hours to cross it.<br>
+we made two groups to fit into two boat. the boat ride started. the fog was still there over the water and didn&rsquo;t decrease an inch.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Testpost2</title>
-            <link>https://0x03.in/posts/2024/12/testpost2/</link>
+            <link>http://localhost:1313/posts/2024/12/testpost2/</link>
             <pubDate>Tue, 10 Dec 2024 23:37:40 +0530</pubDate>
             
-            <guid>https://0x03.in/posts/2024/12/testpost2/</guid>
+            <guid>http://localhost:1313/posts/2024/12/testpost2/</guid>
             <description>&lt;p&gt;this is the second test post to check the working of the system&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>this is the second test post to check the working of the system</p>
 ]]></content>
@@ -22,10 +54,10 @@
         
         <item>
             <title>Hellotest</title>
-            <link>https://0x03.in/posts/2024/12/hellotest/</link>
+            <link>http://localhost:1313/posts/2024/12/hellotest/</link>
             <pubDate>Mon, 09 Dec 2024 12:42:18 +0530</pubDate>
             
-            <guid>https://0x03.in/posts/2024/12/hellotest/</guid>
+            <guid>http://localhost:1313/posts/2024/12/hellotest/</guid>
             <description>&lt;p&gt;hello&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>hello</p>
 ]]></content>
@@ -33,10 +65,10 @@
         
         <item>
             <title>devlog1: Setting up SDL project for the first time</title>
-            <link>https://0x03.in/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</link>
+            <link>http://localhost:1313/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</link>
             <pubDate>Mon, 09 Dec 2024 01:28:24 +0530</pubDate>
             
-            <guid>https://0x03.in/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</guid>
+            <guid>http://localhost:1313/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</guid>
             <description>&lt;p&gt;This is the first time i am ever i am interacting with sdl (Simple DirectMedia Layer).&lt;br&gt;
 I am using a Mac for this project and everything i do will work for any mac, and probably even some linux distros.&lt;br&gt;
 0sdgr547618
