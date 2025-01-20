@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Om Wani</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://0x03.in/posts/</link>
         <description>Recent content in Posts on Om Wani</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Wed, 25 Dec 2024 00:45:38 +0530</lastBuildDate>
-        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://0x03.in/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Have you been to Vasota?</title>
-            <link>http://localhost:1313/posts/2024/12/have-you-been-to-vasota/</link>
+            <link>https://0x03.in/posts/2024/12/have-you-been-to-vasota/</link>
             <pubDate>Wed, 25 Dec 2024 00:45:38 +0530</pubDate>
             
-            <guid>http://localhost:1313/posts/2024/12/have-you-been-to-vasota/</guid>
+            <guid>https://0x03.in/posts/2024/12/have-you-been-to-vasota/</guid>
             <description>&lt;p&gt;&lt;strong&gt;if not, you should, specially during winters.&lt;/strong&gt;
 i recently went for the trek with my cousins this december.&lt;/p&gt;
 &lt;h3 id=&#34;day-0--planning&#34;&gt;day 0 : planning&lt;/h3&gt;
@@ -43,10 +43,10 @@ we made two groups to fit into two boat. the boat ride started. the fog was stil
         
         <item>
             <title>Testpost2</title>
-            <link>http://localhost:1313/posts/2024/12/testpost2/</link>
+            <link>https://0x03.in/posts/2024/12/testpost2/</link>
             <pubDate>Tue, 10 Dec 2024 23:37:40 +0530</pubDate>
             
-            <guid>http://localhost:1313/posts/2024/12/testpost2/</guid>
+            <guid>https://0x03.in/posts/2024/12/testpost2/</guid>
             <description>&lt;p&gt;this is the second test post to check the working of the system&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>this is the second test post to check the working of the system</p>
 ]]></content>
@@ -54,10 +54,10 @@ we made two groups to fit into two boat. the boat ride started. the fog was stil
         
         <item>
             <title>Hellotest</title>
-            <link>http://localhost:1313/posts/2024/12/hellotest/</link>
+            <link>https://0x03.in/posts/2024/12/hellotest/</link>
             <pubDate>Mon, 09 Dec 2024 12:42:18 +0530</pubDate>
             
-            <guid>http://localhost:1313/posts/2024/12/hellotest/</guid>
+            <guid>https://0x03.in/posts/2024/12/hellotest/</guid>
             <description>&lt;p&gt;hello&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>hello</p>
 ]]></content>
@@ -65,10 +65,10 @@ we made two groups to fit into two boat. the boat ride started. the fog was stil
         
         <item>
             <title>devlog1: Setting up SDL project for the first time</title>
-            <link>http://localhost:1313/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</link>
+            <link>https://0x03.in/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</link>
             <pubDate>Mon, 09 Dec 2024 01:28:24 +0530</pubDate>
             
-            <guid>http://localhost:1313/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</guid>
+            <guid>https://0x03.in/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</guid>
             <description>&lt;p&gt;This is the first time i am ever i am interacting with sdl (Simple DirectMedia Layer).&lt;br&gt;
 I am using a Mac for this project and everything i do will work for any mac, and probably even some linux distros.&lt;br&gt;
 0sdgr547618

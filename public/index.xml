@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Om Wani</title>
-    <link>http://localhost:1313/</link>
+    <link>https://0x03.in/</link>
     <description>Recent content on Om Wani</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 25 Dec 2024 00:45:38 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0x03.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Have you been to Vasota?</title>
-      <link>http://localhost:1313/posts/2024/12/have-you-been-to-vasota/</link>
+      <link>https://0x03.in/posts/2024/12/have-you-been-to-vasota/</link>
       <pubDate>Wed, 25 Dec 2024 00:45:38 +0530</pubDate>
-      <guid>http://localhost:1313/posts/2024/12/have-you-been-to-vasota/</guid>
+      <guid>https://0x03.in/posts/2024/12/have-you-been-to-vasota/</guid>
       <description>&lt;p&gt;&lt;strong&gt;if not, you should, specially during winters.&lt;/strong&gt;&#xA;i recently went for the trek with my cousins this december.&lt;/p&gt;&#xA;&lt;h3 id=&#34;day-0--planning&#34;&gt;day 0 : planning&lt;/h3&gt;&#xA;&lt;p&gt;i was thinking of planning a trip somewhere to chill as i had not went out anywhere since a long and coincidently Shivam (my cousin) called and asked, &lt;strong&gt;&amp;ldquo;wanna plan and go somewhere?, Pratik &lt;em&gt;(my other cousin)&lt;/em&gt; is in town.&amp;rdquo;&lt;/strong&gt; so i immediately said yes. we discussed and decided to go Vasota with a trekking group.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Testpost2</title>
-      <link>http://localhost:1313/posts/2024/12/testpost2/</link>
+      <link>https://0x03.in/posts/2024/12/testpost2/</link>
       <pubDate>Tue, 10 Dec 2024 23:37:40 +0530</pubDate>
-      <guid>http://localhost:1313/posts/2024/12/testpost2/</guid>
+      <guid>https://0x03.in/posts/2024/12/testpost2/</guid>
       <description>&lt;p&gt;this is the second test post to check the working of the system&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hellotest</title>
-      <link>http://localhost:1313/posts/2024/12/hellotest/</link>
+      <link>https://0x03.in/posts/2024/12/hellotest/</link>
       <pubDate>Mon, 09 Dec 2024 12:42:18 +0530</pubDate>
-      <guid>http://localhost:1313/posts/2024/12/hellotest/</guid>
+      <guid>https://0x03.in/posts/2024/12/hellotest/</guid>
       <description>&lt;p&gt;hello&lt;/p&gt;</description>
     </item>
     <item>
       <title>devlog1: Setting up SDL project for the first time</title>
-      <link>http://localhost:1313/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</link>
+      <link>https://0x03.in/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</link>
       <pubDate>Mon, 09 Dec 2024 01:28:24 +0530</pubDate>
-      <guid>http://localhost:1313/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</guid>
+      <guid>https://0x03.in/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</guid>
       <description>&lt;p&gt;This is the first time i am ever i am interacting with sdl (Simple DirectMedia Layer).&lt;br&gt;&#xA;I am using a Mac for this project and everything i do will work for any mac, and probably even some linux distros.&lt;br&gt;&#xA;0sdgr547618&#xA;The SDL library has bindings to many different programming languages. While SDL is written in C, it works well with C++ and many people like to use it with various scripting languages and special purpose programming languages. You can check that out the bindings &lt;a href=&#34;https://libsdl.org/languages.php&#34;&gt;here&lt;/a&gt;, but we are going to use C++ only.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://0x03.in/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://0x03.in/about/</guid>
       <description>&lt;p&gt;I am Om Wani (0x03).&lt;br&gt;&#xA;I am a Computer Science Student based in Pune,IN.&lt;br&gt;&#xA;I am trying to build a game engine and you can  check out the project on my &lt;a href=&#34;https://github.com/om-wani/&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Also here is my resume -&amp;gt; &lt;a href=&#34;https://github.com/om-wani/resume/blob/460d9369973b635d591c5b7e6643ed0ddcf5681b/Resume07Jan2025.pdf&#34;&gt;RESUME&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;and this is how to reach me or contact me &lt;br&gt;&#xA;email     -&amp;gt; &lt;a href=&#34;mailto:omwani03@gmail.com&#34;&gt;omwani03@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;linkedin  -&amp;gt; &lt;a href=&#34;https://linkedin/in/omwani&#34;&gt;@omwani&lt;/a&gt;&lt;br&gt;&#xA;github    -&amp;gt; &lt;a href=&#34;https://github.com/om-wani&#34;&gt;@om-wani&lt;/a&gt;&lt;br&gt;&#xA;twitter   -&amp;gt; &lt;a href=&#34;https://x.com/omwani03&#34;&gt;@omwani03&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
