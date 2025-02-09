@@ -5,7 +5,9 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - internship
+  - first-job
+  - job
 ---
 
 # My Experience
