@@ -68,7 +68,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Student | Developer - ( and i'm building a compiler.)"
+  homeSubtitle = "Student | Developer - ( and i'm trying to build a game.)"
 
   # Set a background for the homepage
   # backgroundImage = "/img/cat-in-window.gif"

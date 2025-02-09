@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://0x03.in/posts/2025/02/first-job-exp/</loc>
+    <lastmod>2025-02-09T18:12:14+05:30</lastmod>
+  </url><url>
+    <loc>https://0x03.in/</loc>
+    <lastmod>2025-02-09T18:12:14+05:30</lastmod>
+  </url><url>
+    <loc>https://0x03.in/posts/</loc>
+    <lastmod>2025-02-09T18:12:14+05:30</lastmod>
+  </url><url>
+    <loc>https://0x03.in/tags/</loc>
+    <lastmod>2025-02-09T18:12:14+05:30</lastmod>
+  </url><url>
+    <loc>https://0x03.in/tags/untagged/</loc>
+    <lastmod>2025-02-09T18:12:14+05:30</lastmod>
+  </url><url>
     <loc>https://0x03.in/tags/2024/</loc>
     <lastmod>2024-12-25T00:45:38+05:30</lastmod>
   </url><url>
@@ -12,15 +27,6 @@
     <lastmod>2024-12-25T00:45:38+05:30</lastmod>
   </url><url>
     <loc>https://0x03.in/posts/2024/12/have-you-been-to-vasota/</loc>
-    <lastmod>2024-12-25T00:45:38+05:30</lastmod>
-  </url><url>
-    <loc>https://0x03.in/</loc>
-    <lastmod>2024-12-25T00:45:38+05:30</lastmod>
-  </url><url>
-    <loc>https://0x03.in/posts/</loc>
-    <lastmod>2024-12-25T00:45:38+05:30</lastmod>
-  </url><url>
-    <loc>https://0x03.in/tags/</loc>
     <lastmod>2024-12-25T00:45:38+05:30</lastmod>
   </url><url>
     <loc>https://0x03.in/tags/trek/</loc>
@@ -36,9 +42,6 @@
     <lastmod>2024-12-25T00:45:38+05:30</lastmod>
   </url><url>
     <loc>https://0x03.in/posts/2024/12/testpost2/</loc>
-    <lastmod>2024-12-10T23:37:40+05:30</lastmod>
-  </url><url>
-    <loc>https://0x03.in/tags/untagged/</loc>
     <lastmod>2024-12-10T23:37:40+05:30</lastmod>
   </url><url>
     <loc>https://0x03.in/categories/</loc>
