@@ -24,3 +24,5 @@ The SDL library has bindings to many different programming languages. While SDL 
 ``
   brew install sdl_dev sdl_image 
 ``
+
+`blog remaining`

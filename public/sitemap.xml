@@ -47,27 +47,6 @@
     <loc>https://0x03.in/tags/winter/</loc>
     <lastmod>2024-12-25T00:45:38+05:30</lastmod>
   </url><url>
-    <loc>https://0x03.in/posts/2024/12/testpost2/</loc>
-    <lastmod>2024-12-10T23:37:40+05:30</lastmod>
-  </url><url>
-    <loc>https://0x03.in/tags/untagged/</loc>
-    <lastmod>2024-12-10T23:37:40+05:30</lastmod>
-  </url><url>
-    <loc>https://0x03.in/categories/</loc>
-    <lastmod>2024-12-09T12:42:18+05:30</lastmod>
-  </url><url>
-    <loc>https://0x03.in/posts/2024/12/hellotest/</loc>
-    <lastmod>2024-12-09T12:42:18+05:30</lastmod>
-  </url><url>
-    <loc>https://0x03.in/series/</loc>
-    <lastmod>2024-12-09T12:42:18+05:30</lastmod>
-  </url><url>
-    <loc>https://0x03.in/series/test2/</loc>
-    <lastmod>2024-12-09T12:42:18+05:30</lastmod>
-  </url><url>
-    <loc>https://0x03.in/categories/verytest/</loc>
-    <lastmod>2024-12-09T12:42:18+05:30</lastmod>
-  </url><url>
     <loc>https://0x03.in/tags/devlog/</loc>
     <lastmod>2024-12-09T01:28:24+05:30</lastmod>
   </url><url>
@@ -80,10 +59,15 @@
     <loc>https://0x03.in/tags/sdl/</loc>
     <lastmod>2024-12-09T01:28:24+05:30</lastmod>
   </url><url>
+    <loc>https://0x03.in/series/</loc>
+    <lastmod>2024-12-09T01:28:24+05:30</lastmod>
+  </url><url>
     <loc>https://0x03.in/series/test1/</loc>
     <lastmod>2024-12-09T01:28:24+05:30</lastmod>
   </url><url>
     <loc>https://0x03.in/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0x03.in/categories/</loc>
   </url>
 </urlset>

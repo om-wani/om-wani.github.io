@@ -7,7 +7,7 @@ aliases = ["about-us","about-hugo","contact"]
 +++
 
 I am Om Wani (0x03).   
-I am a Computer Science Student based in Pune,IN.   
+I am a Software Developer based in Pune,IN.   
 I am trying to build a game engine and you can  check out the project on my [github](https://github.com/om-wani/).
 
 Also here is my resume -> [RESUME](/assets/Resume07Jan2025.pdf)

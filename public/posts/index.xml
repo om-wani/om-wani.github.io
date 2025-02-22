@@ -57,28 +57,6 @@ we made two groups to fit into two boat. the boat ride started. the fog was stil
         </item>
         
         <item>
-            <title>Testpost2</title>
-            <link>https://0x03.in/posts/2024/12/testpost2/</link>
-            <pubDate>Tue, 10 Dec 2024 23:37:40 +0530</pubDate>
-            
-            <guid>https://0x03.in/posts/2024/12/testpost2/</guid>
-            <description>&lt;p&gt;this is the second test post to check the working of the system&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<p>this is the second test post to check the working of the system</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Hellotest</title>
-            <link>https://0x03.in/posts/2024/12/hellotest/</link>
-            <pubDate>Mon, 09 Dec 2024 12:42:18 +0530</pubDate>
-            
-            <guid>https://0x03.in/posts/2024/12/hellotest/</guid>
-            <description>&lt;p&gt;hello&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<p>hello</p>
-]]></content>
-        </item>
-        
-        <item>
             <title>devlog1: Setting up SDL project for the first time</title>
             <link>https://0x03.in/posts/2024/12/devlog1-setting-up-sdl-project-for-the-first-time/</link>
             <pubDate>Mon, 09 Dec 2024 01:28:24 +0530</pubDate>
@@ -95,6 +73,7 @@ The SDL library has bindings to many different programming languages. While SDL 
 <p><img alt="world" src="https://i.imgur.com/ajEEL5k.jpeg" title="world"></p>
 <h2 id="installing-sdl-and-other-related-packages">installing SDL and other related packages</h2>
 <p><code>brew install sdl_dev sdl_image </code></p>
+<p><code>blog remaining</code></p>
 ]]></content>
         </item>
         
